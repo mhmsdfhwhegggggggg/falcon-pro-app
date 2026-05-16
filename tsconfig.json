@@ -1,0 +1,9 @@
+{
+  "extends": "expo/tsconfig",
+  "compilerOptions": {
+    "strict": false,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
